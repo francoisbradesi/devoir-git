@@ -1,6 +1,6 @@
 #devoir-git
 
-01 Nom: BRADESI
+01 Nom: BRADESI François
 01 github: francoisbradesi
 02 Nom: BAPTISTE CECCALDI
 02 github: BPFrancesco
